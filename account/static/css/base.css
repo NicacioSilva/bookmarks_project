@@ -225,12 +225,24 @@ ul.messages li a.close {
     background: #3b5399;
 }
 
-.social li.twitter {
-    background: #00cffa;
+.social li.github {
+    background: black;
+}
+
+.social li.gitlab {
+    background: orange;
+}
+
+.social li.fedora {
+    background: dodgerblue;
 }
 
 .social li.google {
     background: #de1710;
+}
+
+.social li.twitter {
+    background: deepskyblue;
 }
 
 
